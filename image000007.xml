@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>425</xmin>
-			<ymin>149</ymin>
-			<xmax>503</xmax>
-			<ymax>384</ymax>
+			<xmin>428</xmin>
+			<ymin>148</ymin>
+			<xmax>502</xmax>
+			<ymax>373</ymax>
 		</bndbox>
 		<bbox_source>single_object_tracker</bbox_source>
 		<id_number>1</id_number>
